@@ -10,8 +10,8 @@ Currently growing in mobile development, web design, and AI-powered tools.
 
 ##What I'm Working On
 
-- **Mobile apps** that offer emergency SOS alerts and utility tools  
-- **Web projects** that promote women empowerment, agriculture, and tech for good  
+- **Mobile apps** Simple Mobile applications like a calculator and a student grading app
+- Learning **Front end development** with **Alx**
 - Learning **UI/UX design** to make interfaces more human-friendly  
 - Exploring **AI tools** to automate repetitive dev tasks
 
